@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\Fazendo um app sem orientacao obj\Fazendo um app sem orientacao obj\bin\Debug\netcoreapp3.1\Fazendo um app sem orientacao obj.exe
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\Fazendo um app sem orientacao obj\Fazendo um app sem orientacao obj\bin\Debug\netcoreapp3.1\Fazendo um app sem orientacao obj.deps.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\Fazendo um app sem orientacao obj\Fazendo um app sem orientacao obj\bin\Debug\netcoreapp3.1\Fazendo um app sem orientacao obj.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\Fazendo um app sem orientacao obj\Fazendo um app sem orientacao obj\bin\Debug\netcoreapp3.1\Fazendo um app sem orientacao obj.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\Fazendo um app sem orientacao obj\Fazendo um app sem orientacao obj\bin\Debug\netcoreapp3.1\Fazendo um app sem orientacao obj.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\Fazendo um app sem orientacao obj\Fazendo um app sem orientacao obj\bin\Debug\netcoreapp3.1\Fazendo um app sem orientacao obj.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\Fazendo um app sem orientacao obj\Fazendo um app sem orientacao obj\obj\Debug\netcoreapp3.1\Fazendo um app sem orientacao obj.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\Fazendo um app sem orientacao obj\Fazendo um app sem orientacao obj\obj\Debug\netcoreapp3.1\Fazendo um app sem orientacao obj.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\Fazendo um app sem orientacao obj\Fazendo um app sem orientacao obj\obj\Debug\netcoreapp3.1\Fazendo um app sem orientacao obj.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\Fazendo um app sem orientacao obj\Fazendo um app sem orientacao obj\obj\Debug\netcoreapp3.1\Fazendo um app sem orientacao obj.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\Fazendo um app sem orientacao obj\Fazendo um app sem orientacao obj\obj\Debug\netcoreapp3.1\Fazendo um app sem orientacao obj.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\Fazendo um app sem orientacao obj\Fazendo um app sem orientacao obj\obj\Debug\netcoreapp3.1\Fazendo um app sem orientacao obj.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\Fazendo um app sem orientacao obj\Fazendo um app sem orientacao obj\obj\Debug\netcoreapp3.1\Fazendo um app sem orientacao obj.genruntimeconfig.cache
