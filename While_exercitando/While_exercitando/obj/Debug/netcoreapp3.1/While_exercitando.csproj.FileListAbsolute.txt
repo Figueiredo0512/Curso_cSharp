@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\While_exercitando\While_exercitando\bin\Debug\netcoreapp3.1\While_exercitando.exe
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\While_exercitando\While_exercitando\bin\Debug\netcoreapp3.1\While_exercitando.deps.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\While_exercitando\While_exercitando\bin\Debug\netcoreapp3.1\While_exercitando.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\While_exercitando\While_exercitando\bin\Debug\netcoreapp3.1\While_exercitando.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\While_exercitando\While_exercitando\bin\Debug\netcoreapp3.1\While_exercitando.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\While_exercitando\While_exercitando\bin\Debug\netcoreapp3.1\While_exercitando.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\While_exercitando\While_exercitando\obj\Debug\netcoreapp3.1\While_exercitando.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\While_exercitando\While_exercitando\obj\Debug\netcoreapp3.1\While_exercitando.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\While_exercitando\While_exercitando\obj\Debug\netcoreapp3.1\While_exercitando.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\While_exercitando\While_exercitando\obj\Debug\netcoreapp3.1\While_exercitando.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\While_exercitando\While_exercitando\obj\Debug\netcoreapp3.1\While_exercitando.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\While_exercitando\While_exercitando\obj\Debug\netcoreapp3.1\While_exercitando.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\While_exercitando\While_exercitando\obj\Debug\netcoreapp3.1\While_exercitando.genruntimeconfig.cache
