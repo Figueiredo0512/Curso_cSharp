@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio_if_else_2\exercicio_if_else_2\bin\Debug\netcoreapp3.1\exercicio_if_else_2.exe
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio_if_else_2\exercicio_if_else_2\bin\Debug\netcoreapp3.1\exercicio_if_else_2.deps.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio_if_else_2\exercicio_if_else_2\bin\Debug\netcoreapp3.1\exercicio_if_else_2.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio_if_else_2\exercicio_if_else_2\bin\Debug\netcoreapp3.1\exercicio_if_else_2.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio_if_else_2\exercicio_if_else_2\bin\Debug\netcoreapp3.1\exercicio_if_else_2.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio_if_else_2\exercicio_if_else_2\bin\Debug\netcoreapp3.1\exercicio_if_else_2.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio_if_else_2\exercicio_if_else_2\obj\Debug\netcoreapp3.1\exercicio_if_else_2.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio_if_else_2\exercicio_if_else_2\obj\Debug\netcoreapp3.1\exercicio_if_else_2.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio_if_else_2\exercicio_if_else_2\obj\Debug\netcoreapp3.1\exercicio_if_else_2.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio_if_else_2\exercicio_if_else_2\obj\Debug\netcoreapp3.1\exercicio_if_else_2.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio_if_else_2\exercicio_if_else_2\obj\Debug\netcoreapp3.1\exercicio_if_else_2.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio_if_else_2\exercicio_if_else_2\obj\Debug\netcoreapp3.1\exercicio_if_else_2.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio_if_else_2\exercicio_if_else_2\obj\Debug\netcoreapp3.1\exercicio_if_else_2.genruntimeconfig.cache
