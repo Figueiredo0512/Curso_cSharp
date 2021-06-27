@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio 3 - while\exercicio 3 - while\bin\Debug\netcoreapp3.1\exercicio 3 - while.exe
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio 3 - while\exercicio 3 - while\bin\Debug\netcoreapp3.1\exercicio 3 - while.deps.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio 3 - while\exercicio 3 - while\bin\Debug\netcoreapp3.1\exercicio 3 - while.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio 3 - while\exercicio 3 - while\bin\Debug\netcoreapp3.1\exercicio 3 - while.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio 3 - while\exercicio 3 - while\bin\Debug\netcoreapp3.1\exercicio 3 - while.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio 3 - while\exercicio 3 - while\bin\Debug\netcoreapp3.1\exercicio 3 - while.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio 3 - while\exercicio 3 - while\obj\Debug\netcoreapp3.1\exercicio 3 - while.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio 3 - while\exercicio 3 - while\obj\Debug\netcoreapp3.1\exercicio 3 - while.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio 3 - while\exercicio 3 - while\obj\Debug\netcoreapp3.1\exercicio 3 - while.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio 3 - while\exercicio 3 - while\obj\Debug\netcoreapp3.1\exercicio 3 - while.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio 3 - while\exercicio 3 - while\obj\Debug\netcoreapp3.1\exercicio 3 - while.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio 3 - while\exercicio 3 - while\obj\Debug\netcoreapp3.1\exercicio 3 - while.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exercicio 3 - while\exercicio 3 - while\obj\Debug\netcoreapp3.1\exercicio 3 - while.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exerxixio 2 - while", "exerxixio 2 - while\exerxixio 2 - while.csproj", "{0174895E-A95E-4DD4-87F0-2286BD50D21B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0174895E-A95E-4DD4-87F0-2286BD50D21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0174895E-A95E-4DD4-87F0-2286BD50D21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0174895E-A95E-4DD4-87F0-2286BD50D21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0174895E-A95E-4DD4-87F0-2286BD50D21B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B99C6E4-CC06-4A9F-A3FC-C6FFE7A5D434}
+	EndGlobalSection
+EndGlobal

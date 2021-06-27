@@ -1,0 +1,12 @@
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exerxixio 2 - while\exerxixio 2 - while\bin\Debug\netcoreapp3.1\exerxixio 2 - while.exe
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exerxixio 2 - while\exerxixio 2 - while\bin\Debug\netcoreapp3.1\exerxixio 2 - while.deps.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exerxixio 2 - while\exerxixio 2 - while\bin\Debug\netcoreapp3.1\exerxixio 2 - while.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exerxixio 2 - while\exerxixio 2 - while\bin\Debug\netcoreapp3.1\exerxixio 2 - while.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exerxixio 2 - while\exerxixio 2 - while\bin\Debug\netcoreapp3.1\exerxixio 2 - while.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exerxixio 2 - while\exerxixio 2 - while\bin\Debug\netcoreapp3.1\exerxixio 2 - while.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exerxixio 2 - while\exerxixio 2 - while\obj\Debug\netcoreapp3.1\exerxixio 2 - while.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exerxixio 2 - while\exerxixio 2 - while\obj\Debug\netcoreapp3.1\exerxixio 2 - while.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exerxixio 2 - while\exerxixio 2 - while\obj\Debug\netcoreapp3.1\exerxixio 2 - while.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exerxixio 2 - while\exerxixio 2 - while\obj\Debug\netcoreapp3.1\exerxixio 2 - while.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exerxixio 2 - while\exerxixio 2 - while\obj\Debug\netcoreapp3.1\exerxixio 2 - while.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\exerxixio 2 - while\exerxixio 2 - while\obj\Debug\netcoreapp3.1\exerxixio 2 - while.genruntimeconfig.cache
