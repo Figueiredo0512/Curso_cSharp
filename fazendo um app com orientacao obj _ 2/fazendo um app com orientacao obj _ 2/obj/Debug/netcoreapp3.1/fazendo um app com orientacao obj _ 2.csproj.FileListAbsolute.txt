@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\fazendo um app com orientacao obj _ 2\fazendo um app com orientacao obj _ 2\bin\Debug\netcoreapp3.1\fazendo um app com orientacao obj _ 2.exe
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\fazendo um app com orientacao obj _ 2\fazendo um app com orientacao obj _ 2\bin\Debug\netcoreapp3.1\fazendo um app com orientacao obj _ 2.deps.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\fazendo um app com orientacao obj _ 2\fazendo um app com orientacao obj _ 2\bin\Debug\netcoreapp3.1\fazendo um app com orientacao obj _ 2.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\fazendo um app com orientacao obj _ 2\fazendo um app com orientacao obj _ 2\bin\Debug\netcoreapp3.1\fazendo um app com orientacao obj _ 2.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\fazendo um app com orientacao obj _ 2\fazendo um app com orientacao obj _ 2\bin\Debug\netcoreapp3.1\fazendo um app com orientacao obj _ 2.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\fazendo um app com orientacao obj _ 2\fazendo um app com orientacao obj _ 2\bin\Debug\netcoreapp3.1\fazendo um app com orientacao obj _ 2.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\fazendo um app com orientacao obj _ 2\fazendo um app com orientacao obj _ 2\obj\Debug\netcoreapp3.1\fazendo um app com orientacao obj _ 2.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\fazendo um app com orientacao obj _ 2\fazendo um app com orientacao obj _ 2\obj\Debug\netcoreapp3.1\fazendo um app com orientacao obj _ 2.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\fazendo um app com orientacao obj _ 2\fazendo um app com orientacao obj _ 2\obj\Debug\netcoreapp3.1\fazendo um app com orientacao obj _ 2.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\fazendo um app com orientacao obj _ 2\fazendo um app com orientacao obj _ 2\obj\Debug\netcoreapp3.1\fazendo um app com orientacao obj _ 2.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\fazendo um app com orientacao obj _ 2\fazendo um app com orientacao obj _ 2\obj\Debug\netcoreapp3.1\fazendo um app com orientacao obj _ 2.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\fazendo um app com orientacao obj _ 2\fazendo um app com orientacao obj _ 2\obj\Debug\netcoreapp3.1\fazendo um app com orientacao obj _ 2.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\fazendo um app com orientacao obj _ 2\fazendo um app com orientacao obj _ 2\obj\Debug\netcoreapp3.1\fazendo um app com orientacao obj _ 2.genruntimeconfig.cache

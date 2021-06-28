@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex1_classe_obj\ex1_classe_obj\bin\Debug\netcoreapp3.1\ex1_classe_obj.exe
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex1_classe_obj\ex1_classe_obj\bin\Debug\netcoreapp3.1\ex1_classe_obj.deps.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex1_classe_obj\ex1_classe_obj\bin\Debug\netcoreapp3.1\ex1_classe_obj.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex1_classe_obj\ex1_classe_obj\bin\Debug\netcoreapp3.1\ex1_classe_obj.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex1_classe_obj\ex1_classe_obj\bin\Debug\netcoreapp3.1\ex1_classe_obj.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex1_classe_obj\ex1_classe_obj\bin\Debug\netcoreapp3.1\ex1_classe_obj.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex1_classe_obj\ex1_classe_obj\obj\Debug\netcoreapp3.1\ex1_classe_obj.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex1_classe_obj\ex1_classe_obj\obj\Debug\netcoreapp3.1\ex1_classe_obj.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex1_classe_obj\ex1_classe_obj\obj\Debug\netcoreapp3.1\ex1_classe_obj.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex1_classe_obj\ex1_classe_obj\obj\Debug\netcoreapp3.1\ex1_classe_obj.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex1_classe_obj\ex1_classe_obj\obj\Debug\netcoreapp3.1\ex1_classe_obj.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex1_classe_obj\ex1_classe_obj\obj\Debug\netcoreapp3.1\ex1_classe_obj.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex1_classe_obj\ex1_classe_obj\obj\Debug\netcoreapp3.1\ex1_classe_obj.genruntimeconfig.cache
