@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex_membro_Estatico\ex_membro_Estatico\bin\Debug\netcoreapp3.1\ex_membro_Estatico.exe
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex_membro_Estatico\ex_membro_Estatico\bin\Debug\netcoreapp3.1\ex_membro_Estatico.deps.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex_membro_Estatico\ex_membro_Estatico\bin\Debug\netcoreapp3.1\ex_membro_Estatico.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex_membro_Estatico\ex_membro_Estatico\bin\Debug\netcoreapp3.1\ex_membro_Estatico.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex_membro_Estatico\ex_membro_Estatico\bin\Debug\netcoreapp3.1\ex_membro_Estatico.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex_membro_Estatico\ex_membro_Estatico\bin\Debug\netcoreapp3.1\ex_membro_Estatico.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex_membro_Estatico\ex_membro_Estatico\obj\Debug\netcoreapp3.1\ex_membro_Estatico.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex_membro_Estatico\ex_membro_Estatico\obj\Debug\netcoreapp3.1\ex_membro_Estatico.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex_membro_Estatico\ex_membro_Estatico\obj\Debug\netcoreapp3.1\ex_membro_Estatico.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex_membro_Estatico\ex_membro_Estatico\obj\Debug\netcoreapp3.1\ex_membro_Estatico.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex_membro_Estatico\ex_membro_Estatico\obj\Debug\netcoreapp3.1\ex_membro_Estatico.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex_membro_Estatico\ex_membro_Estatico\obj\Debug\netcoreapp3.1\ex_membro_Estatico.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\ex_membro_Estatico\ex_membro_Estatico\obj\Debug\netcoreapp3.1\ex_membro_Estatico.genruntimeconfig.cache
