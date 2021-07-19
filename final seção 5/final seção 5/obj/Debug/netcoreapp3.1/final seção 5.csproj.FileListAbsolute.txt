@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\final seção 5\final seção 5\bin\Debug\netcoreapp3.1\final seção 5.exe
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\final seção 5\final seção 5\bin\Debug\netcoreapp3.1\final seção 5.deps.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\final seção 5\final seção 5\bin\Debug\netcoreapp3.1\final seção 5.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\final seção 5\final seção 5\bin\Debug\netcoreapp3.1\final seção 5.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\final seção 5\final seção 5\bin\Debug\netcoreapp3.1\final seção 5.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\final seção 5\final seção 5\bin\Debug\netcoreapp3.1\final seção 5.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\final seção 5\final seção 5\obj\Debug\netcoreapp3.1\final seção 5.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\final seção 5\final seção 5\obj\Debug\netcoreapp3.1\final seção 5.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\final seção 5\final seção 5\obj\Debug\netcoreapp3.1\final seção 5.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\final seção 5\final seção 5\obj\Debug\netcoreapp3.1\final seção 5.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\final seção 5\final seção 5\obj\Debug\netcoreapp3.1\final seção 5.dll
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\final seção 5\final seção 5\obj\Debug\netcoreapp3.1\final seção 5.pdb
+C:\Users\mathe\OneDrive\Documentos\exercicio c#\final seção 5\final seção 5\obj\Debug\netcoreapp3.1\final seção 5.genruntimeconfig.cache
